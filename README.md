@@ -1,8 +1,23 @@
-- 👋 Hi, I’m @Saad-Khurshid
-- 👀 I’m interested in JavaScript Full Stack and AWS...
-- 📫 Reach me at: SaadKhurshid@rocketmail.com ...
+# Hello World!
 
-<!---
-Saad-Khurshid/Saad-Khurshid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```
+const profile = {
+    name: 'Saad Khurshid',
+    email: 'saadkhurshid06@gmail.com',
+    education: 'BSc Computer Systems Engineering ~ 2015-2019',
+    experience: {
+        duration: '3.5 years',
+        domain: 'AWS & Web development|integrations|deployments'
+    },
+    skills: { 
+        cloud: [ 'AWS', 'Google Cloud' ],
+        frontend: [ 'ReactJs', 'Wordpress', HTML', 'CSS', 'Material UI', 'Ant Design', 'TailwindCSS' 'Bootstrap' ],
+        backend: [ 'Node.js', PHP, sockets, RESTful, multhi-threading, multi-processing ],
+        database: [ 'MySQL', 'mongoDB', 'DynamoDB', 'RDS', 'AWS Glue', 'AWS Athena' ],
+        testing: ['Jest' ],
+        tools: [ 'VS Code', 'Git', 'Linux', 'Nginx', 'Let's Encrypt', 'SSH', 'Linux Terminal', 'JIRA', 'Notion', 'Slack' ],
+        languages: [ 'JavaScript', 'C/C++', 'Python', 'PHP' ],
+        selfObservation: [ 'Programmer', 'Critical Thinker', 'Problem Solver', 'DIY', 'Web Solutions Architect' ]
+    }
+}
+```
